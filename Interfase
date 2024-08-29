@@ -2,3 +2,12 @@ Pregunta planteda:
 1.- ¿En qué consiste la llamada "interfase" en el desarrollo de un sistema experto?
 2.- ¿Cómo se genera la anteriormente mencionada?
 Respuestas obtenidas:
+  1.- la interfaz en el desarrollo de un sistema experto es el punto de interacción entre los usuarios y 
+el sistema. Debe permitir la entrada eficiente de datos, proporcionar una visualización clara de los 
+resultados, facilitar la consulta y exploración de la base de conocimiento, y ofrecer explicaciones sobre las 
+decisiones del sistema. Su diseño debe ser intuitivo y accesible para mejorar la usabilidad y efectividad del sistema experto.
+
+  2.- La interfaz en el desarrollo de un sistema experto se genera a través de un proceso que incluye el diseño de la experiencia
+y la interfaz de usuario, la implementación de controles y visualizaciones, la integración con el sistema, y las pruebas y optimización. 
+Es fundamental para la usabilidad del sistema, ya que facilita la interacción del usuario con el sistema experto y asegura que los resultados
+y explicaciones se presenten de manera clara y accesible.
