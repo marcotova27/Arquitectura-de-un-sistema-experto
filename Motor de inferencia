@@ -2,3 +2,10 @@ Pregunta planteda:
 1.- ¿En qué consiste el llamado "motor de inferencia" en el desarrollo de un sistema experto?
 2.- ¿Cómo se genera el anteriormente mencionado?
 Respuestas obtenidas:
+  1.- el motor de inferencia es el componente del sistema experto responsable de aplicar reglas de razonamiento a 
+los hechos almacenados para inferir nuevos hechos, tomar decisiones y generar conclusiones. Utiliza técnicas como 
+el encadenamiento hacia adelante y hacia atrás, maneja conflictos y ambigüedades, y produce resultados basados en 
+la lógica y el conocimiento especializado. Es esencial para la funcionalidad del sistema experto, ya que convierte 
+el conocimiento y los datos en acciones y decisiones prácticas.
+  Funciones Principales del Motor de Inferencia
+    
