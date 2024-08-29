@@ -1,13 +1,20 @@
 Preguntas planteadas:
-1.- ¿Cómo y con que objetivo interactua el módulo de adquisición de conocimiento con las bases tanto de conocimiento como de hechos en un SE?
-2.- ¿Cómo y con que objetivo interactuan las bases tanto de conocimiento como de hechos con el motor de inferencia en un SE?
-3.- ¿Para qué sirve el intercambio de información entre el módulo de explpicaciones y el motor de inferencia?
+1.- ¿Con qué objetivo interactúa el módulo de adquisición de conocimiento con las bases tanto de conocimiento como de hechos en un SE?
+2.- ¿Con qué objetivo interactuan las bases tanto de conocimiento como de hechos con el motor de inferencia en un SE?
+3.- ¿Para qué sirve el intercambio de información entre el módulo de explicaciones y el motor de inferencia?
 4.- ¿En qué consiste la interacción entre el módulo de explicaciones y la interfase de un SE?
 Respuestas obtenidas:
-1.-
+  1.- El módulo de adquisición de conocimiento interactúa con la base de conocimiento y la base de hechos para asegurar que el sistema experto esté siempre actualizado, preciso, y coherente. 
+Su objetivo es enriquecer y mantener la calidad del conocimiento en el sistema, permitiendo una toma de decisiones efectiva y adaptada a las condiciones actuales. La interacción efectiva con estas bases es esencial 
+para el éxito y la utilidad continua del sistema experto.
 
-2.-
+  2.- La interacción entre la base de conocimiento, la base de hechos y el motor de inferencia en un sistema experto tiene como objetivo realizar inferencias precisas, tomar decisiones informadas, adaptar el sistema 
+a nuevas situaciones, y resolver problemas complejos. Esta interacción asegura que el sistema funcione de manera efectiva y proporcione soluciones basadas en el conocimiento y datos disponibles.
 
-3.-
+  3.- El intercambio de información entre el módulo de explicaciones y el motor de inferencia en un sistema experto es esencial para proporcionar transparencia, validación, y comprensión del proceso de inferencia. 
+Este intercambio permite a los usuarios entender el razonamiento detrás de las conclusiones del sistema, verificar la validez de los resultados, educar y capacitar a los usuarios, y contribuir a la mejora continua 
+del sistema experto.
 
-4.-
+  4.- La interacción entre el módulo de explicaciones y la interfase en un sistema experto tiene como objetivo proporcionar explicaciones claras y comprensibles de cómo se generaron los resultados, 
+facilitar la interacción del usuario con el sistema, mejorar la experiencia del usuario, y apoyar la formación y capacitación. Esta interacción asegura que los usuarios puedan entender y evaluar el proceso de inferencia, 
+realizar preguntas y obtener retroalimentación, y personalizar su experiencia con el sistema.
