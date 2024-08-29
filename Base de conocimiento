@@ -2,3 +2,22 @@ Pregunta planteada:
 1.- ¿Qué es la denominada "base de conocimiento" en un sistema experto?
 2.- ¿Comó se genera la base de conocimiento al momento de desarrollar un sistema experto?
 Respuesta obtenida:
+
+  1.- Es un repositorio estructurado que contiene toda la información y el conocimiento especializado necesario para que el sistema 
+pueda realizar tareas y tomar decisiones de manera similar a un experto humano en un dominio específico.
+  La base de conocimiento incluye varios tipos de información:
+    -> Hechos
+    -> Reglas
+    -> Ontologías y relaciones semánticas
+    -> Heurísticas
+    -> Modelos y funciones matemáticas
+    -> Casos o ejemplos
+
+  2.- Esta base debe ser creada cuidadosamente para capturar de manera precisa y útil el conocimiento experto necesario para el dominio 
+específico del sistema. El proceso de generación de la base de conocimiento generalmente implica varios pasos clave:
+     1 -> Identificación del dominio y definición del alcance
+     2 -> Adquisición de conocimientos
+     3 -> Representación del conocimiento
+     4 -> Validación y verificación del conocimiento
+     5 -> Implementación en el sistema experto
+     6 -> Mantenimiento y actualización continua
