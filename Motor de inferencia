@@ -1,4 +1,4 @@
-Pregunta planteda:
+Preguntas plantedas:
 1.- ¿En qué consiste el llamado "motor de inferencia" en el desarrollo de un sistema experto?
 2.- ¿Cómo se genera el anteriormente mencionado?
 Respuestas obtenidas:
@@ -8,4 +8,13 @@ el encadenamiento hacia adelante y hacia atrás, maneja conflictos y ambigüedad
 la lógica y el conocimiento especializado. Es esencial para la funcionalidad del sistema experto, ya que convierte 
 el conocimiento y los datos en acciones y decisiones prácticas.
   Funciones Principales del Motor de Inferencia
-    
+     1 -> Aplicación de Reglas
+     2 -> Generación de Nuevos Hechos
+     3 -> Encadenamiento de Reglas
+     4 -> Resolución de Conflictos
+     5 -> Producción de Resultados
+
+  2.- La generación del motor de inferencia involucra diseñar el sistema para aplicar reglas y algoritmos de razonamiento, 
+implementar estos algoritmos en el software, integrarlos con la base de hechos y la base de conocimiento, y validar su funcionamiento 
+mediante pruebas. Una vez implementado, el motor de inferencia debe ser optimizado y mantenido para garantizar su eficacia en la toma 
+de decisiones y la generación de conclusiones precisas.
