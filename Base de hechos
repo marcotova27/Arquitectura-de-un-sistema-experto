@@ -2,3 +2,12 @@ Pregunta planteda:
 1.- ¿En qué consiste la llamada "base de hechos" en el desarrollo de un sistema experto?
 2.- ¿Cómo se genera la anteriormente mencionada?
 Respuestas obtenidas:
+
+  1.- Es un repositorio dinámico que contiene datos específicos, actuales y relevantes sobre el problema que el sistema está tratando de resolver en un momento dado. 
+A diferencia de la base de conocimiento, que contiene reglas y conocimientos generales sobre el dominio, la base de hechos almacena la información concreta y particular 
+que se conoce o se ha inferido sobre una situación específica.
+  La base de hechos consiste en una colección de hechos que representan el estado actual del problema o situación que el sistema experto está evaluando. Un hecho es una
+pieza de información que puede ser considerada verdadera en el contexto de la situación actual. 
+
+  2.- La generación de la base de hechos en un sistema experto implica varios pasos que se centran en la recopilación, organización y actualización de la información específica 
+y actual sobre la situación o problema que el sistema está evaluando.
