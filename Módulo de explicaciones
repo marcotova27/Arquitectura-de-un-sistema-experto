@@ -2,3 +2,18 @@ Pregunta planteda:
 1.- ¿En qué consiste el llamado "módulo de explicaciones" en el desarrollo de un sistema experto?
 2.- ¿Cómo se genera el anteriormente mencionado?
 Respuestas obtenidas:
+  1.- El módulo de explicaciones es crucial para un sistema experto ya que proporciona una forma de justificar y aclarar las decisiones y recomendaciones 
+del sistema. Facilita la transparencia del proceso de razonamiento, aumenta la confianza del usuario, y ayuda en la validación y aprendizaje. Consiste en un generador 
+de explicaciones, una interfaz de usuario para presentar las explicaciones, y un registro de actividades para auditoría y seguimiento
+
+  2.- la generación del módulo de explicaciones implica diseñar un sistema para proporcionar justificaciones claras para las decisiones del sistema experto, implementar 
+un generador de explicaciones y una interfaz de usuario, y realizar pruebas y validación para asegurar su efectividad. El módulo debe integrarse con el motor de inferencia 
+y ser mantenido y optimizado continuamente para garantizar que proporcione explicaciones precisas y útiles.
+
+
+
+
+
+
+
+
