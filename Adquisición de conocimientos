@@ -1,3 +1,29 @@
 Pregunta planteada:
-¿Cómo funciona y en que coniste el módulo de adquisición de conocimientos en la arquitectura de un sistema experto?
+¿Cómo funciona y en que consiste el módulo de adquisición de conocimientos en la arquitectura de un sistema experto?
 Respuesta obtenida: 
+
+  El módulo de adquisición de conocimientos es una parte fundamental de la arquitectura de un sistema experto. Su función principal es capturar, organizar y actualizar el conocimiento necesario para que el
+sistema experto pueda tomar decisiones de manera efectiva en un dominio específico.
+
+¿Cómo funciona el módulo de adquisición de conocimientos?
+1.- Captura del conocimiento
+El módulo de adquisición de conocimientos obtiene información de diversas fuentes, principalmente de expertos humanos en el dominio.
+
+2.- Representación del conocimiento
+Una vez capturado, el conocimiento debe ser formalizado y representado de manera que el sistema experto pueda procesarlo. Esto a menudo implica codificar el conocimiento en forma de reglas
+
+3.- Validación y verificación
+Después de que el conocimiento se ha adquirido y representado, es crucial verificar y validar que la información sea correcta y útil.
+
+4.- Actualización del conocimiento
+El conocimiento en muchos dominios no es estático; cambia con el tiempo a medida que se descubren nuevas informaciones, se introducen nuevas tecnologías, o cambian las mejores prácticas.
+
+El módulo de adquisición de conocimientos consiste típicamente en las siguientes componentes:
+-> Interfaces de usuario
+    Herramientas que facilitan la entrada de conocimiento por parte de expertos humanos
+-> Algoritmos de aprendizaje
+    En algunos sistemas expertos modernos, el módulo de adquisición de conocimientos puede incluir algoritmos de aprendizaje automático que ayudan a derivar reglas o patrones a partir de grandes conjuntos de datos
+-> Mecanismos de validación
+    Herramientas para verificar y validar el conocimiento capturado.
+-> Gestión de versiones y actualización
+    Sistemas para mantener diferentes versiones del conocimiento a medida que se actualiza, así como para gestionar cambios y asegurar la coherencia del conocimiento a lo largo del tiempo.
